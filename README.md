@@ -21,3 +21,7 @@ Into:
 Favourites:
   - -> "Movies" "Music" "Programming" "Coffee;)"
 ```
+## 🌐 CONNECT
+<p align='left'>
+  <a href="https://www.linkedin.com/in/bhavya-86195627a/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin></a>
+</p>
