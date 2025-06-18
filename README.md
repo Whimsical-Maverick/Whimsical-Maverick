@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bhavya Gaur
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=B6F500&width=435&lines=Budding+Software+Developer;Machine+Learning+Enthusiast;Hackathon+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=B6F500&width=435&lines=Budding+Software+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -31,14 +31,14 @@ I’m currently diving deep into research, practical ML projects, and contributi
 - 💻 Languages: Python, JavaScript, C++
 - 🧠 ML/AI: PyTorch, TensorFlow, Scikit-learn
 - 📖 Learning WebDev,GenAI
-- 🔧 Tools: Git, VS Code, Jupyter, Linux
+- 🔧 Tools: Git, VS Code, Jupyter
 
 ---
 
 ## 🎯 Interests
 
 - 📊 ML Research
-- 🎨 UI/UX & Animations
+- 🎨 Self Growth and Finance Books
 - ☕ Deep conversations over coffee
 - 🎵 Music, Movies, Memes
 
