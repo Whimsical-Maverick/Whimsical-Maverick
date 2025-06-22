@@ -21,8 +21,8 @@ I’m currently diving deep into research, practical ML projects, and contributi
 
 ## 🏆 Achievements
 
-- 🌍 Selected among top 700 globally for [HackUPC, Spain](https://hackupc.com)
-- 🇺🇸 Finalist at [HackDavis, USA](https://hackdavis.io)
+- 	&#x1f1ea;&#x1f1f8; Selected among top 700 globally for [HackUPC, Spain](https://hackupc.com)
+-   &#x1f1fa;&#x1f1f8; Finalist at [HackDavis, USA](https://hackdavis.io)
 
 ---
 
