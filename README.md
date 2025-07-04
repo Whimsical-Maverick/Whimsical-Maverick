@@ -21,7 +21,7 @@ I’m currently diving deep into research, practical ML projects, and contributi
 
 ## 🏆 Achievements
 
-- 	&#x1f1ea;&#x1f1f8; Selected among top 700 globally for [HackUPC, Spain](https://hackupc.com)
+- 	&#x1f1ea;&#x1f1f8; Among top 700 global WORLD FINALISTS for [HackUPC, Spain](https://hackupc.com)
 -   &#x1f1fa;&#x1f1f8; Finalist at [HackDavis, USA](https://hackdavis.io)
 -   Top 25 – Semicolon 10.0 (DSA contest).
 -   Top 10 – Red Bull Basement (Internal Round).
