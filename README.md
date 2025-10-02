@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate software developer who loves solving real-world problems through code, especially in the domains of **Machine Learning** and **Artificial Intelligence**. 
+I'm a software developer who loves solving real-world problems through code, especially in the domains of **Machine Learning** and **Artificial Intelligence**. 
 
 I’m currently diving deep into research, practical ML projects, and contributing to the open-source ecosystem.
 
