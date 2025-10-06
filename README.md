@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bhavya Gaur
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=B6F500&width=435&lines=Budding+Software+Developer;Machine+Learning+Enthusiast;A+Curious+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=B6F500&width=435&lines=Budding+Software+Developer;Machine+Learning+Guy;A+Curious+Learner)](https://git.io/typing-svg)
 
 ---
 
