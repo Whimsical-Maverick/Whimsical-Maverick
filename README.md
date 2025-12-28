@@ -14,7 +14,7 @@ I’m currently diving deep into research, practical ML projects, and contributi
 
 ## 🚀 Experience
 
-- 🎓 **Research Intern**, Indian Institute of Science (IISc), Bengaluru  
+- 🎓 **Ex-Research Intern**, Indian Institute of Science (IISc), Bengaluru  
 - 🔬 **Ex-Research Intern**, National Institute of Technology, Kurukshetra  
 
 ---
